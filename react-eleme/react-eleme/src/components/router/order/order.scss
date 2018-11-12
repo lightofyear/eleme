@@ -1,0 +1,26 @@
+.order{
+  .wrap{
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    .content{
+      text-align: center;
+      font-size: .34rem;
+      img{
+        width: 4rem;
+        height: 4rem;
+      }
+      p{
+        padding: .24rem 0;
+      }
+      button{
+        padding: .16rem .6rem;
+        font-size: .3rem;
+        background: #56d176;
+        color: #fff;
+        border: none;
+        border-radius: .06rem;
+      }
+    }
+  }
+
+}
